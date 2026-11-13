@@ -1,5 +1,9 @@
 # Project ARES-5
 
+## Main Project Link
+
+🎮 **[Play Project Ares 5 on itch.io](https://subha-jahan19.itch.io/project-ares-5)**
+
 **An educational space exploration and survival game by Orbit Nexa**
 
 Project ARES-5 is an interactive space exploration and survival game
